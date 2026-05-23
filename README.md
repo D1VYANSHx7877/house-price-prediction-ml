@@ -51,4 +51,4 @@ Project aimed at predicting house sale prices using the Ames Housing dataset. Th
 
 ---
 
-If you'd like, I can run the notebook to regenerate outputs and save figures to `outputs/`, or prepare a short `streamlit/` demo.
+This project demonstrates a complete machine learning workflow for house price prediction, from data preprocessing and EDA to model training, evaluation, and submission-ready outputs.
