@@ -238,7 +238,7 @@ Planned improvements for future iterations:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/house-price-prediction-ml.git
+git clone https://github.com/D1VYANSHx7877/house-price-prediction-ml.git
 ```
 
 Navigate to the project folder:
